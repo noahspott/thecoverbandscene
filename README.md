@@ -22,7 +22,7 @@ FR-07: The system shall validate required fields and show errors if missing or i
 FR-08: The system shall check for and prevent duplicate bands, venues, or events.
 
 ##### Authorized Client Features
-FR-09: The system shall support pagination for events.
+FR-09: The system shall support pagination for events. <br/>
 FR-10: The system shall support event filtering by start date and end date.
 
 #### Non-functional Requirements
