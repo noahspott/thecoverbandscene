@@ -23,6 +23,7 @@ FR-08: The system shall check for and prevent duplicate bands, venues, or events
 
 ##### Authorized Client Features
 FR-09: The system shall support pagination for events.
+FR-10: The system shall support event filtering by start date and end date.
 
 #### Non-functional Requirements
 NFR-01: The API shall respond to read requests with a p95 latency of ≤ 200 ms. <br/>
